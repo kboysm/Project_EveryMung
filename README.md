@@ -7,7 +7,13 @@
 
 
 # 프로젝트 소개
-프로젝트 EveryMung
+프로젝트 EveryMung은 가정펫시터와 위탁펫시터를 견주들과 매칭해 주는 Project
+사이트 가입과 로그인 결제,예약 등으로 이뤄지며 admin page를 통해 사이트의 관리를 할 수 있다
 
-#사용 기술 스택
-Spring Boot & Vue.js
+
+# 사용 기술 스택
+  - Spring Boot
+  - Mysql
+  - Mybatis
+  - Vue.js
+  
