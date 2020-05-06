@@ -1,5 +1,5 @@
 # Project_EveryMung
-![EveryMung.jpg](./img/EveryMung.jpg)
+![EveryMung.jpg](https://github.com/kboysm/Project_EveryMung/issues/1#issue-613410938)
 ![loginForm.jpg](./img/loginForm.jpg)
 ![googleMap.jpg](./img/googleMap.jpg)
 ![chart.jpg](./img/chart.jpg)
