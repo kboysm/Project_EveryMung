@@ -3,9 +3,9 @@
 사이트 가입과 로그인 결제,예약 등으로 이뤄지며 admin page를 통해 사이트의 관리를 할 수 있다
 
 ## 프로젝트에서 내가 진행한 파트
-회원가인&로그인&프로젝트 진행 중 발생하는 오류 해결 &동영상과 채팅 관련 모듈 &admin 파트의 차트
+회원가입&로그인 & 프로젝트 진행 중 발생하는 오류 해결 & 동영상과 채팅 관련 모듈 & admin 파트의 차트
 
-naver,kakao,google login / google map api연동 / daum 우편번호 서비스 / 관련 동영상 및 채팅 모듈
+kakao,google login / google map api연동 / daum 우편번호 서비스 / 관련 동영상 및 채팅 모듈
 
 
 ![EveryMung](https://user-images.githubusercontent.com/51103479/81196249-c603fc00-8ff9-11ea-9611-82a1d96afa2e.png)
