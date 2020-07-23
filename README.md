@@ -9,6 +9,11 @@
 ![chart](https://user-images.githubusercontent.com/51103479/81196985-b20cca00-8ffa-11ea-844f-2e30581947d8.JPG)
 
 
+## 프로젝트에서 내가 진행한 파트
+회원가인&로그인&프로젝트 진행 중 발생하는 오류 해결 &동영상과 채팅 관련 모듈 &admin 파트의 차트
+
+naver,kakao,google login / google map api연동 / daum 우편번호 서비스 / 관련 동영상 및 채팅 모듈
+
 ## 사용 기술 스택
   - Spring Boot
   - Mysql
